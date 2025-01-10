@@ -18,9 +18,9 @@ class Twitter:
             if followeeId in self.tweetMap:
                 index = len(self.tweetMap[followeeId]) - 1  # to get the last index
                 count, tweetId = self.tweetMap[followeeId][index]
-                # heapq.heappush(minHeap, [count, tweetId, followeeId, index - 1])
-                minHeap.append([count, tweetId, followeeId, index - 1])     # index - 1 indicates the next position we will be looking for
-        heapq.heapify(minHeap)
+                heapq.heappush(minHeap, [count, tweetId, followeeId, index - 1])    # index - 1 indicates the next position we will be looking for
+        #         minHeap.append([count, tweetId, followeeId, index - 1])     # index - 1 indicates the next position we will be looking for
+        # heapq.heapify(minHeap)
 
         while minHeap and len(res) < 10:
            count, tweetId, followeeId, index = heapq.heappop(minHeap)
