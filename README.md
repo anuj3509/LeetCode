@@ -72,6 +72,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anuj3509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuj3509/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/anuj3509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anuj3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0023-merge-k-sorted-lists](https://github.com/anuj3509/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/anuj3509/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/anuj3509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anuj3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anuj3509/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj3509/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj3509/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anuj3509/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/anuj3509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anuj3509/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/anuj3509/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [0146-lru-cache](https://github.com/anuj3509/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/anuj3509/LeetCode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/anuj3509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/anuj3509/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anuj3509/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anuj3509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anuj3509/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
