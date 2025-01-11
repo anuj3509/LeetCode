@@ -20,6 +20,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0042-trapping-rain-water](https://github.com/anuj3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/anuj3509/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/anuj3509/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuj3509/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj3509/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj3509/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/anuj3509/LeetCode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anuj3509/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/anuj3509/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
