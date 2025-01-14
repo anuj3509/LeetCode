@@ -90,6 +90,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0125-valid-palindrome](https://github.com/anuj3509/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anuj3509/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anuj3509/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anuj3509/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuj3509/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuj3509/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2383-add-two-integers](https://github.com/anuj3509/LeetCode/tree/master/2383-add-two-integers) |
 ## Backtracking
@@ -370,4 +372,8 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
