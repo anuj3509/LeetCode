@@ -24,6 +24,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/anuj3509/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anuj3509/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuj3509/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/anuj3509/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj3509/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0022-generate-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anuj3509/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anuj3509/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anuj3509/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [0036-valid-sudoku](https://github.com/anuj3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/anuj3509/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
 ## Union Find
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0040-combination-sum-ii](https://github.com/anuj3509/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anuj3509/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anuj3509/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anuj3509/LeetCode/tree/master/0090-subsets-ii) |
 ## Linked List
 |  |
@@ -313,6 +317,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/anuj3509/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuj3509/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
