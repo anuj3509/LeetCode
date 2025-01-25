@@ -175,6 +175,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0128-longest-consecutive-sequence](https://github.com/anuj3509/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anuj3509/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anuj3509/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Two Pointers
@@ -369,6 +370,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj3509/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/anuj3509/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0226-invert-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj3509/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/anuj3509/LeetCode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0133-clone-graph](https://github.com/anuj3509/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/anuj3509/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anuj3509/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
