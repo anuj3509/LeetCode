@@ -136,6 +136,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0347-top-k-frequent-elements](https://github.com/anuj3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anuj3509/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anuj3509/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anuj3509/LeetCode/tree/master/1127-last-stone-weight) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0572-subtree-of-another-tree](https://github.com/anuj3509/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/anuj3509/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -398,6 +400,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anuj3509/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/anuj3509/LeetCode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -462,10 +465,15 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0210-course-schedule-ii](https://github.com/anuj3509/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anuj3509/LeetCode/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anuj3509/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anuj3509/LeetCode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
