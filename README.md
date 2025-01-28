@@ -372,6 +372,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anuj3509/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj3509/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/anuj3509/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj3509/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0133-clone-graph](https://github.com/anuj3509/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/anuj3509/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anuj3509/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/anuj3509/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anuj3509/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
@@ -476,4 +478,8 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/anuj3509/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
