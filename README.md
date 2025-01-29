@@ -55,6 +55,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1036-rotting-oranges](https://github.com/anuj3509/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/anuj3509/LeetCode/tree/master/1127-last-stone-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anuj3509/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
@@ -468,6 +470,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0547-number-of-provinces](https://github.com/anuj3509/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anuj3509/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -482,4 +485,8 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/anuj3509/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
