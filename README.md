@@ -124,6 +124,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anuj3509/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/anuj3509/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0155-min-stack](https://github.com/anuj3509/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/anuj3509/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
+| [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
+| [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
