@@ -122,6 +122,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anuj3509/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anuj3509/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/anuj3509/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0287-find-the-duplicate-number](https://github.com/anuj3509/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/anuj3509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anuj3509/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/anuj3509/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -249,6 +251,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0131-palindrome-partitioning](https://github.com/anuj3509/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/anuj3509/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anuj3509/LeetCode/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
