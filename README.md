@@ -50,6 +50,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0300-longest-increasing-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anuj3509/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anuj3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/anuj3509/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj3509/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0213-house-robber-ii](https://github.com/anuj3509/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anuj3509/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/anuj3509/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
