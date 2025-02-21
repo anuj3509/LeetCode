@@ -10,6 +10,8 @@ class Solution:
         for i in range(len(nums)-1, -1, -1):
             nextDP = set()
             for t in dp:
+                if (t + nums[i]) == target:
+                    return True
                 nextDP.add(t + nums[i])
                 nextDP.add(t)
             dp = nextDP
