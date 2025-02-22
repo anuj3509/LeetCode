@@ -259,6 +259,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0005-longest-palindromic-substring](https://github.com/anuj3509/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuj3509/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/anuj3509/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/anuj3509/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj3509/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuj3509/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/anuj3509/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuj3509/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
@@ -559,4 +561,8 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0070-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/anuj3509/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anuj3509/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
