@@ -19,7 +19,9 @@ class Solution:
         # return dfs(0, 0)
 
 
-        # 2D DP cache -> TC = SC = O(m * n) ->  Suboptimal solution
+
+
+        # 2D DP cache -> TC = O(m * n); SC = O(n) ->  Suboptimal solution - memory optimized
         dp = [0] * (amount + 1)
         dp[0] = 1
         for i in range(len(coins) - 1, -1, -1):
