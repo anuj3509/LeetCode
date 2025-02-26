@@ -21,16 +21,27 @@ class Solution:
 
 
 
-        # 2D DP cache -> TC = O(m * n); SC = O(n) ->  Suboptimal solution - memory optimized
+        # # 2D DP cache -> TC = O(m * n); SC = O(n) ->  Bottom-up Optimal solution - memory optimized
+        # dp = [0] * (amount + 1)
+        # dp[0] = 1
+        # for i in range(len(coins) - 1, -1, -1):
+        #     nextDP = [0] * (amount + 1)
+        #     nextDP[0] = 1
+
+        #     for a in range(1, amount + 1):
+        #         nextDP[a] = dp[a]
+        #         if a - coins[i] >= 0:
+        #             nextDP[a] += nextDP[a - coins[i]]
+        #     dp = nextDP
+        # return dp[amount]
+
+
+
+
+        # TC = O(m * n); SC = O(n) ->  Bottom-up Most Optimal solution
         dp = [0] * (amount + 1)
         dp[0] = 1
         for i in range(len(coins) - 1, -1, -1):
-            nextDP = [0] * (amount + 1)
-            nextDP[0] = 1
-
             for a in range(1, amount + 1):
-                nextDP[a] = dp[a]
-                if a - coins[i] >= 0:
-                    nextDP[a] += nextDP[a - coins[i]]
-            dp = nextDP
+                dp[a] += dp[a - coins[i]] if coins[i] <= a else 0
         return dp[amount]
