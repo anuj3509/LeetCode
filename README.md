@@ -73,6 +73,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anuj3509/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/anuj3509/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anuj3509/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anuj3509/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/anuj3509/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anuj3509/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
