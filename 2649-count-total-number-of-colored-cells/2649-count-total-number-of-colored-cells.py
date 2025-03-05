@@ -2,8 +2,7 @@ class Solution:
     def coloredCells(self, n: int) -> int:
         
         # Math based approach [ TC: O(1) ]
-        res = 1
-        return res + 2*n*(n-1)
+        return 1 + 2*n*(n-1)
 
         # # TC: O(n)
         # res = 1
