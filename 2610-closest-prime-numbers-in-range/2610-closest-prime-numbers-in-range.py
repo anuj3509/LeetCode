@@ -5,7 +5,7 @@ class Solution:
         primes = [True] * n
         primes[0] = primes[1] = False
 
-        inf = 10 ** 10
+        inf = 10 ** 5
         best = inf
         bestDelta = inf
         last = inf
