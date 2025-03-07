@@ -1,8 +1,6 @@
 class Solution:
     def closestPrimes(self, left: int, right: int) -> List[int]:
         
-        
-
         # Sieve of Eratosthenes algorithm to find prime numbers { TC: O(log(log(n))) }
         def getPrimes():
             isPrime = [True] * (right + 1)
@@ -19,7 +17,8 @@ class Solution:
                     primes.append(i)
             return primes
         
-        
+
+
         primes = getPrimes()    # gets all primes from [left, right]
         res = [-1, -1]
         diff = right - left + 1
@@ -29,6 +28,7 @@ class Solution:
                 diff = primes[i] - primes[i-1]
                 res = [primes[i-1], primes[i]]
         return res 
+        
         
         
         
