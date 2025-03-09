@@ -1,7 +1,7 @@
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:
         
-        # Sliding window approach [   TC: O(n)   ;   SC: O(n)    ]
+        # Sliding window approach
         n = len(colors)
         l = 0
         res = 0
