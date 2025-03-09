@@ -78,6 +78,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anuj3509/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj3509/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3483-alternating-groups-ii](https://github.com/anuj3509/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0424-longest-repeating-character-replacement](https://github.com/anuj3509/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anuj3509/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/anuj3509/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |
