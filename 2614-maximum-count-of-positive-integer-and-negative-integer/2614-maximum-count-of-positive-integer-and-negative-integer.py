@@ -17,7 +17,7 @@ class Solution:
         l = 0
         r = len(nums) - 1
 
-        # Binary search to find the first zero or positive index
+        # Binary search to count negatives
         while l <= r:
             mid = (l + r) // 2
             if nums[mid] < 0:
@@ -28,7 +28,7 @@ class Solution:
 
         l, r = 0, len(nums) - 1  # reset pointers
 
-        # Binary search to find the first positive index (>0)
+        # Binary search to count positives
         while l <= r:
             mid = (l + r) // 2
             if nums[mid] <= 0:
