@@ -3,34 +3,38 @@ class Solution:
         neg = 0
         pos = 0
 
-        for num in nums:
-            if num < 0:
-                neg += 1
-            elif num > 0:
-                pos += 1
+        # # TC: O(n)
+        # for num in nums:
+        #     if num < 0:
+        #         neg += 1
+        #     elif num > 0:
+        #         pos += 1
+        # return max(neg, pos)
+
+
+
+        # Using Binary Search [TC: O(log n)]
+        l = 0
+        r = len(nums) - 1
+
+        # Binary search to find the first zero or positive index
+        while l <= r:
+            mid = (l + r) // 2
+            if nums[mid] < 0:
+                l = mid + 1  # Move RP to find first non-negative
+            else:
+                r = mid - 1  # Move LP to find first non-negative
+        neg = l  
+
+        l, r = 0, len(nums) - 1  # reset pointers
+
+        # Binary search to find the first positive index (>0)
+        while l <= r:
+            mid = (l + r) // 2
+            if nums[mid] <= 0:
+                l = mid + 1  # Move RP to find first positive
+            else:
+                r = mid - 1  # Move LP if nums[mid] is positive
+        pos = len(nums) - l  
 
         return max(neg, pos)
-
-
-        # l = 0
-        # r = len(nums) - 1
-
-        # if nums[l] == 0 or nums[r] == 0:
-        #     return len(nums) - 1
-        # if nums[l] > 0 or nums[r] < 0:
-        #     return len(nums)
-
-        # while l < r:
-        #     # if nums[l] == 0 or nums[r] == 0:
-        #     #     continue
-        #     if nums[l] < 0:
-        #         neg += 1
-        #         l += 1
-        #     if nums[r] > 0:
-        #         pos += 1
-        #         r -= 1
-        #     if nums[l] == 0:
-        #         r -= 1
-        #     if nums[r] == 0:
-        #         l += 1
-        # return max(neg, pos)
