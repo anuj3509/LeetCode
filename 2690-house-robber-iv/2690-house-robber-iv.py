@@ -13,14 +13,12 @@ class Solution:
                     break
             return count == k
 
+
         # Binary Search idea came from question - koko eating bananas
         # Search space: [min(nums), max(nums)]
-        
         l, r = min(nums), max(nums)
-
         while l <= r:
             m = (l + r) // 2
-
             if isvalid(m):
                 res = m
                 r = m - 1   # we try a smaller capability
