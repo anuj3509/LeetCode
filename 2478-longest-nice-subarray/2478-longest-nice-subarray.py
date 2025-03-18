@@ -8,5 +8,5 @@ class Solution:
                 cur = cur ^ nums[l]     # unset the bits using XOR
                 l += 1
             res = max(res, r - l + 1)
-            cur = cur ^ nums[r]     # set the bits using OR
+            cur = cur | nums[r]     # set the bits using OR
         return res
