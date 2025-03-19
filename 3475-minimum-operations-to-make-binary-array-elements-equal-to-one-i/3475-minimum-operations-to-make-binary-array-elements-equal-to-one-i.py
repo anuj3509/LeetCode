@@ -1,5 +1,7 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
+        
+        # sliding window approach
         def flip(nums, i):
             nums[i] = 0 if nums[i] else 1
         res = 0
