@@ -338,6 +338,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anuj3509/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
 | ------- |
@@ -621,6 +622,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj3509/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -631,12 +633,14 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0207-course-schedule](https://github.com/anuj3509/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anuj3509/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj3509/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Eulerian Circuit
 |  |
 | ------- |
