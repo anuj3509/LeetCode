@@ -91,6 +91,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anuj3509/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/anuj3509/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/anuj3509/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anuj3509/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3430-count-days-without-meetings](https://github.com/anuj3509/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anuj3509/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
