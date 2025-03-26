@@ -4,7 +4,7 @@ class Solution:
         for row in grid:
             for n in row:
                 if n % x != grid[0][0] % x:
-                    return False
+                    return -1
 
         # 2. flatten and sort the input
         nums = sorted([n for row in grid for n in row])
