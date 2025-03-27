@@ -85,6 +85,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2690-house-robber-iv](https://github.com/anuj3509/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anuj3509/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/anuj3509/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/anuj3509/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj3509/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anuj3509/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anuj3509/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/anuj3509/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj3509/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj3509/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
@@ -141,6 +143,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj3509/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/anuj3509/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/anuj3509/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anuj3509/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
