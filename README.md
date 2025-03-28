@@ -116,6 +116,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0208-implement-trie-prefix-tree](https://github.com/anuj3509/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anuj3509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuj3509/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/anuj3509/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/anuj3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anuj3509/LeetCode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/anuj3509/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0211-design-add-and-search-words-data-structure](https://github.com/anuj3509/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anuj3509/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/anuj3509/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/anuj3509/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anuj3509/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
