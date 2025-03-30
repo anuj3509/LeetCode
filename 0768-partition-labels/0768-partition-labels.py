@@ -14,6 +14,6 @@ class Solution:
             size += 1
             end = max(end, lastindex[c])
             if i == end:
-                res.appedn(size)
+                res.append(size)
                 size = 0
         return res
