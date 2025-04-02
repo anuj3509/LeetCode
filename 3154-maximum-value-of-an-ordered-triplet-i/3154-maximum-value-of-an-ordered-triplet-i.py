@@ -1,7 +1,5 @@
 class Solution:
     def maximumTripletValue(self, nums: List[int]) -> int:
-
-        # TC: O(n^2)
         res = 0
         N = len(nums)
         left = nums[0]
