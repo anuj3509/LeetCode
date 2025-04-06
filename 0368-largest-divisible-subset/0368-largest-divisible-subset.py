@@ -1,5 +1,6 @@
 class Solution:
     def largestDivisibleSubset(self, nums: List[int]) -> List[int]:
+        # DP solution
         nums.sort()
         dp = [[n] for n in nums]     # dp[i] = longest start at i
         res = []
