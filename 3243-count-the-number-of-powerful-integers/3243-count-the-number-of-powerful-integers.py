@@ -1,6 +1,5 @@
 class Solution:
-    def numberOfPowerfulInt(
-        self, start: int, finish: int, limit: int, s: str) -> int:
+    def numberOfPowerfulInt(self, start: int, finish: int, limit: int, s: str) -> int:
         start_ = str(start - 1)
         finish_ = str(finish)
         return self.calculate(finish_, s, limit) - self.calculate(start_, s, limit)
