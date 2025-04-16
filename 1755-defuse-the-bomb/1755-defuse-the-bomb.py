@@ -1,6 +1,3 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("1"))
-
-
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
         n = len(code)
