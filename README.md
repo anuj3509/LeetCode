@@ -180,6 +180,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuj3509/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/anuj3509/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anuj3509/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
