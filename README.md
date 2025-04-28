@@ -87,6 +87,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anuj3509/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/anuj3509/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/anuj3509/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/anuj3509/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0238-product-of-array-except-self](https://github.com/anuj3509/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/anuj3509/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anuj3509/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/anuj3509/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anuj3509/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/anuj3509/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj3509/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anuj3509/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj3509/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/anuj3509/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/anuj3509/LeetCode/tree/master/2690-house-robber-iv) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuj3509/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/anuj3509/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anuj3509/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anuj3509/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/anuj3509/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/anuj3509/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
