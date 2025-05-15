@@ -25,6 +25,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anuj3509/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/anuj3509/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/anuj3509/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anuj3509/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/anuj3509/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anuj3509/LeetCode/tree/master/0078-subsets) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [0015-3sum](https://github.com/anuj3509/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anuj3509/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anuj3509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuj3509/LeetCode/tree/master/0242-valid-anagram) |
