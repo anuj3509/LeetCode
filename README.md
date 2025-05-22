@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0042-trapping-rain-water](https://github.com/anuj3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anuj3509/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anuj3509/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anuj3509/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/anuj3509/LeetCode/tree/master/0055-jump-game) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anuj3509/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/anuj3509/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/anuj3509/LeetCode/tree/master/0130-surrounded-regions) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuj3509/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anuj3509/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuj3509/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
