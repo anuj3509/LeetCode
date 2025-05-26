@@ -28,6 +28,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0055-jump-game](https://github.com/anuj3509/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anuj3509/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anuj3509/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/anuj3509/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anuj3509/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anuj3509/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anuj3509/LeetCode/tree/master/0078-subsets) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0002-add-two-numbers](https://github.com/anuj3509/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anuj3509/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/anuj3509/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuj3509/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/anuj3509/LeetCode/tree/master/0202-happy-number) |
