@@ -220,6 +220,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0020-valid-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anuj3509/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/anuj3509/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anuj3509/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuj3509/LeetCode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/anuj3509/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anuj3509/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anuj3509/LeetCode/tree/master/0062-unique-paths) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anuj3509/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/anuj3509/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anuj3509/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
