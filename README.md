@@ -95,6 +95,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/anuj3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2048-build-array-from-permutation](https://github.com/anuj3509/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj3509/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/anuj3509/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuj3509/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/anuj3509/LeetCode/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/anuj3509/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0347-top-k-frequent-elements](https://github.com/anuj3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuj3509/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj3509/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
@@ -526,6 +529,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0355-design-twitter](https://github.com/anuj3509/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anuj3509/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/anuj3509/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
 ## Math
 |  |
 | ------- |
