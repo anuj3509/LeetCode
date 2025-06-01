@@ -451,6 +451,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0312-burst-balloons](https://github.com/anuj3509/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anuj3509/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj3509/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/anuj3509/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/anuj3509/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anuj3509/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anuj3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0136-single-number](https://github.com/anuj3509/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anuj3509/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/anuj3509/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/anuj3509/LeetCode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj3509/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anuj3509/LeetCode/tree/master/2478-longest-nice-subarray) |
