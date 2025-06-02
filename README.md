@@ -542,6 +542,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuj3509/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/anuj3509/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/anuj3509/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anuj3509/LeetCode/tree/master/0050-powx-n) |
