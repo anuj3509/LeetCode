@@ -72,6 +72,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0494-target-sum](https://github.com/anuj3509/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anuj3509/LeetCode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/anuj3509/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/anuj3509/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuj3509/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anuj3509/LeetCode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/anuj3509/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/anuj3509/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anuj3509/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anuj3509/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [0043-multiply-strings](https://github.com/anuj3509/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/anuj3509/LeetCode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/anuj3509/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anuj3509/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/anuj3509/LeetCode/tree/master/2551-apply-operations-to-an-array) |
