@@ -128,6 +128,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anuj3509/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anuj3509/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj3509/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anuj3509/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/anuj3509/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anuj3509/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/anuj3509/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anuj3509/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj3509/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
@@ -762,10 +764,12 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anuj3509/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anuj3509/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -800,6 +804,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0208-implement-trie-prefix-tree](https://github.com/anuj3509/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anuj3509/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anuj3509/LeetCode/tree/master/0212-word-search-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
 | ------- |
@@ -883,4 +888,8 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anuj3509/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
