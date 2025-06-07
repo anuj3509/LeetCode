@@ -1,7 +1,7 @@
 class Solution:
     def countPrefixSuffixPairs(self, words: List[str]) -> int:
         res = 0
-
+        # TC: O(n^2 * L)
         for i in range(len(words)):
             for j in range(i+1, len(words)):
                 w1, w2 = words[i], words[j]
