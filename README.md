@@ -145,6 +145,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [0001-two-sum](https://github.com/anuj3509/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj3509/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/anuj3509/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuj3509/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anuj3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0005-longest-palindromic-substring](https://github.com/anuj3509/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anuj3509/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/anuj3509/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/anuj3509/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anuj3509/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuj3509/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0020-valid-parentheses) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0002-add-two-numbers](https://github.com/anuj3509/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anuj3509/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anuj3509/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anuj3509/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/anuj3509/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anuj3509/LeetCode/tree/master/0050-powx-n) |
