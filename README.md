@@ -90,6 +90,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1127-last-stone-weight](https://github.com/anuj3509/LeetCode/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuj3509/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj3509/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anuj3509/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/anuj3509/LeetCode/tree/master/1656-count-good-triplets) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anuj3509/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj3509/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anuj3509/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1023-time-based-key-value-store](https://github.com/anuj3509/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/anuj3509/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anuj3509/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuj3509/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anuj3509/LeetCode/tree/master/1127-last-stone-weight) |
+| [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anuj3509/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anuj3509/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0907-koko-eating-bananas](https://github.com/anuj3509/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/anuj3509/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj3509/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anuj3509/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -819,6 +824,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0208-implement-trie-prefix-tree](https://github.com/anuj3509/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anuj3509/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anuj3509/LeetCode/tree/master/0212-word-search-ii) |
+| [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
