@@ -716,6 +716,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/anuj3509/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/anuj3509/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj3509/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/anuj3509/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/anuj3509/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/anuj3509/LeetCode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj3509/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0684-redundant-connection](https://github.com/anuj3509/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anuj3509/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/anuj3509/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
