@@ -27,6 +27,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0048-rotate-image](https://github.com/anuj3509/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anuj3509/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/anuj3509/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anuj3509/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anuj3509/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anuj3509/LeetCode/tree/master/0057-insert-interval) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj3509/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anuj3509/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/anuj3509/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj3509/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/anuj3509/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/anuj3509/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0022-generate-parentheses](https://github.com/anuj3509/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuj3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anuj3509/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anuj3509/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anuj3509/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anuj3509/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0070-climbing-stairs) |
