@@ -80,6 +80,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/anuj3509/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/anuj3509/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anuj3509/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0368-largest-divisible-subset](https://github.com/anuj3509/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/anuj3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [0974-reorder-data-in-log-files](https://github.com/anuj3509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0678-valid-parenthesis-string](https://github.com/anuj3509/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/anuj3509/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/anuj3509/LeetCode/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/anuj3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0678-valid-parenthesis-string](https://github.com/anuj3509/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/anuj3509/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anuj3509/LeetCode/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anuj3509/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj3509/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0042-trapping-rain-water](https://github.com/anuj3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuj3509/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/anuj3509/LeetCode/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj3509/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
