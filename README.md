@@ -77,6 +77,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0494-target-sum](https://github.com/anuj3509/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anuj3509/LeetCode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/anuj3509/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/anuj3509/LeetCode/tree/master/0739-daily-temperatures) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0494-target-sum](https://github.com/anuj3509/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anuj3509/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/anuj3509/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -914,10 +916,12 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
