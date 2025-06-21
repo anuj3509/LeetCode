@@ -1,15 +1,27 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        charset = set()
-
-        l = 0   #left pointer
-        res = 0 #result variable to count the max size of the sliding window
-
-        for r in range(len(s)):     #iterating the right pointer through the entire string
-            while s[r] in charset:
-                charset.remove(s[l])    #if duplicate encountered, keep removing leftmost value
-                l += 1                  #increment left pointer
-            charset.add(s[r])           #after all duplicates removed, add the right value
-            res = max(res, r-l+1)       #keeps track of the max size of the sliding window
+        # maxLength = 0
         
-        return res
+        # for i in range(len(s)):
+        #     seen = set()
+        #     for j in range(i, len(s)):
+        #         if s[j] not in seen:
+        #             seen.add(s[j])
+        #         else: 
+        #             break
+        #     maxLength = max(maxLength, len(seen))
+        # return maxLength
+
+                
+
+        l = 0
+        seen = set()
+        length = 0
+        for r in range(len(s)):
+            while s[r] in seen:
+                seen.remove(s[l])
+                l += 1
+            seen.add(s[r])
+            length = max(length, len(seen))
+        return length
+            
