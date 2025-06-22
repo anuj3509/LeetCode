@@ -22,12 +22,16 @@ class Solution:
         
         heap = []
         for num in count.keys():
+            # append values to a minHeap to store.  if the size exceeds k, pop the element
+            # from the heap. this will pop the element with the least frequency
             heapq.heappush(heap, (count[num], num))
             if len(heap) > k:
                 heapq.heappop(heap)
         
         res = []
         for i in range(k):
+            # pop the value from the heap and append its value to the result
+            # note that the value is stored at index 1 and index 0 is frequency
             res.append(heapq.heappop(heap)[1])
         
         return res
