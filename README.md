@@ -708,6 +708,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj3509/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/anuj3509/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj3509/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj3509/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0100-same-tree](https://github.com/anuj3509/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/anuj3509/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj3509/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/anuj3509/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anuj3509/LeetCode/tree/master/0133-clone-graph) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0100-same-tree](https://github.com/anuj3509/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuj3509/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/anuj3509/LeetCode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/anuj3509/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/anuj3509/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anuj3509/LeetCode/tree/master/0133-clone-graph) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj3509/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/anuj3509/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj3509/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj3509/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/0226-invert-binary-tree) |
