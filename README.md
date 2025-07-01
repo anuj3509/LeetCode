@@ -301,6 +301,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj3509/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/anuj3509/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Divide and Conquer
 |  |
 | ------- |
