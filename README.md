@@ -101,6 +101,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj3509/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anuj3509/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/anuj3509/LeetCode/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuj3509/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuj3509/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/anuj3509/LeetCode/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anuj3509/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0594-longest-harmonious-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuj3509/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj3509/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
