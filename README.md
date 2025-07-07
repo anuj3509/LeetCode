@@ -101,6 +101,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj3509/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anuj3509/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/anuj3509/LeetCode/tree/master/1656-count-good-triplets) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/anuj3509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anuj3509/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj3509/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anuj3509/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anuj3509/LeetCode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anuj3509/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anuj3509/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/anuj3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anuj3509/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2681-put-marbles-in-bags](https://github.com/anuj3509/LeetCode/tree/master/2681-put-marbles-in-bags) |
