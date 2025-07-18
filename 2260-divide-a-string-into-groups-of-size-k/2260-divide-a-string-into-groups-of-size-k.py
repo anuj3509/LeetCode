@@ -1,0 +1,11 @@
+class Solution:
+    def divideString(self, s: str, k: int, fill: str) -> List[str]:
+        res = []
+        for i in range(0, len(s), k):   # step size = k
+            group = s[i:i+k]  # group k characters
+            if len(group) < k:
+                group += fill * (k - len(group))    # pad with fill character if len(group) < k
+            res.append(group)
+        return res
+
+# TC: O(n)
