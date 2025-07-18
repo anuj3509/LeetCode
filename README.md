@@ -302,6 +302,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuj3509/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/anuj3509/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anuj3509/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anuj3509/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/anuj3509/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0682-baseball-game](https://github.com/anuj3509/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/anuj3509/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/anuj3509/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/anuj3509/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anuj3509/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/anuj3509/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
