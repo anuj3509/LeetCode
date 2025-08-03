@@ -7,7 +7,7 @@ class Solution:
             for j in range(n):
                 for k in range(n):
                     if i == j or j == k or i == k:
-                        continue  # ensuring all positions are different
+                        continue  # ensuring all digits are distinct
                     a, b, c = digits[i], digits[j], digits[k]
                     if a == 0:
                         continue  # number isn't starting with 0
@@ -15,5 +15,5 @@ class Solution:
                         continue  
                     num = 100 * a + 10 * b + c
                     result.add(num)
-                    
+
         return sorted(result)
