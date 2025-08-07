@@ -288,6 +288,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0038-count-and-say](https://github.com/anuj3509/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anuj3509/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/anuj3509/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/anuj3509/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/anuj3509/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anuj3509/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/anuj3509/LeetCode/tree/master/0091-decode-ways) |
