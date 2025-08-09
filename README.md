@@ -676,6 +676,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0231-power-of-two](https://github.com/anuj3509/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anuj3509/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/anuj3509/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anuj3509/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/anuj3509/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/anuj3509/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anuj3509/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0206-reverse-linked-list](https://github.com/anuj3509/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anuj3509/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anuj3509/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anuj3509/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/anuj3509/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anuj3509/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0268-missing-number](https://github.com/anuj3509/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj3509/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/anuj3509/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/anuj3509/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anuj3509/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj3509/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuj3509/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
