@@ -3,6 +3,7 @@ class Solution:
         res = []
         numOfArrays = len(nums)   # number of arrays in nums
         digit_map = {}
+        
         for subarr in nums:
             for digit in subarr:
                 digit_map[digit] = 1 + digit_map.get(digit,0)
