@@ -209,6 +209,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0768-partition-labels](https://github.com/anuj3509/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1023-time-based-key-value-store](https://github.com/anuj3509/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj3509/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuj3509/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
+| [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0974-reorder-data-in-log-files](https://github.com/anuj3509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/anuj3509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0347-top-k-frequent-elements](https://github.com/anuj3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/anuj3509/LeetCode/tree/master/0621-task-scheduler) |
+| [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuj3509/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0380-insert-delete-getrandom-o1](https://github.com/anuj3509/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuj3509/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1020,6 +1024,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/anuj3509/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj3509/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuj3509/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
