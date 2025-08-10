@@ -582,6 +582,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0678-valid-parenthesis-string](https://github.com/anuj3509/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anuj3509/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/anuj3509/LeetCode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anuj3509/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0380-insert-delete-getrandom-o1](https://github.com/anuj3509/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/anuj3509/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -1067,4 +1069,8 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/anuj3509/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/anuj3509/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
