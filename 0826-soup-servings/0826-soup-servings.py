@@ -4,7 +4,7 @@ class Solution:
             return 1
 
         # scaling by modeling servings in 25ml unit
-        m = math.ceil(n / 25)
+        # m = math.ceil(n / 25)
         dp = {}
 
         def solve(a, b):
@@ -15,11 +15,11 @@ class Solution:
 
             # calc prob from the 4 serving options
             dp[(a, b)] = 0.25 * (
-                solve(a - 4, b) +
-                solve(a - 3, b - 1) +
-                solve(a - 2, b - 2) +
-                solve(a - 1, b - 3)
+                solve(a - 100, b) +
+                solve(a - 75, b - 25) +
+                solve(a - 50, b - 50) +
+                solve(a - 25, b - 75)
             )
             return dp[(a, b)]
 
-        return solve(m, m)
+        return solve(n, n)
