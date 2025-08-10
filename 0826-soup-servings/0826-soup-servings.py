@@ -3,8 +3,6 @@ class Solution:
         if n >= 4500:   # for large n, the prob approaches 1 (hardcoded this 'n' value after many failed testcases)
             return 1
 
-        # scaling by modeling servings in 25ml unit
-        # m = math.ceil(n / 25)
         dp = {}
 
         def solve(a, b):
