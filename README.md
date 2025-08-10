@@ -706,6 +706,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anuj3509/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/anuj3509/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj3509/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/anuj3509/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj3509/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anuj3509/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/anuj3509/LeetCode/tree/master/3321-type-of-triangle) |
