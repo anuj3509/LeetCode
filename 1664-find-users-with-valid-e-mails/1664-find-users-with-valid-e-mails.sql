@@ -3,7 +3,7 @@
 select *
 from Users
 where binary right(mail, 13) = '@leetcode.com'
-  and left(mail, LENGTH(mail) - 13) regexp '^[A-Za-z][A-Za-z0-9_.-]*$';
+  and left(mail, length(mail) - 13) regexp '^[A-Za-z][A-Za-z0-9_.-]*$';
 
 
 
