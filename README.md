@@ -51,6 +51,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1827-invalid-tweets](https://github.com/anuj3509/LeetCode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/anuj3509/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/anuj3509/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/anuj3509/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anuj3509/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/anuj3509/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/anuj3509/LeetCode/tree/master/1948-rearrange-products-table) |
