@@ -156,6 +156,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj3509/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj3509/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anuj3509/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anuj3509/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0695-max-area-of-island](https://github.com/anuj3509/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/anuj3509/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/anuj3509/LeetCode/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anuj3509/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj3509/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anuj3509/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0826-soup-servings](https://github.com/anuj3509/LeetCode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anuj3509/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anuj3509/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/anuj3509/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anuj3509/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
