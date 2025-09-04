@@ -4,6 +4,9 @@ class Solution:
         nums1 = sorted(nums[::2])
         nums2 = sorted(nums[1::2], reverse = True)
 
+        # print(nums1)
+        # print(nums2)
+        
         res = []
         for i in range(len(nums)):
             if i % 2 == 0:
@@ -12,5 +15,4 @@ class Solution:
                 res.append(nums2[i // 2])
         return res
 
-        # print(nums1)
-        # print(nums2)
+        
