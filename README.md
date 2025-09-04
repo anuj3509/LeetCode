@@ -213,6 +213,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anuj3509/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/anuj3509/LeetCode/tree/master/3321-type-of-triangle) |
+| [3324-split-the-array](https://github.com/anuj3509/LeetCode/tree/master/3324-split-the-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anuj3509/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/anuj3509/LeetCode/tree/master/3429-special-array-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2888-minimum-index-of-a-valid-split](https://github.com/anuj3509/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/anuj3509/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj3509/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3324-split-the-array](https://github.com/anuj3509/LeetCode/tree/master/3324-split-the-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/anuj3509/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj3509/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anuj3509/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/anuj3509/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj3509/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3324-split-the-array](https://github.com/anuj3509/LeetCode/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Quickselect
 |  |
