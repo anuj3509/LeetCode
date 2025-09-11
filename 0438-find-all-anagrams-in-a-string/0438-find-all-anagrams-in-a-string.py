@@ -1,6 +1,6 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        result = []
+        res = []
         char_map = {}
         
         # build freq map for string p
@@ -31,8 +31,7 @@ class Solution:
             
             # chekc if current window is anagram
             if count == 0 and j - i + 1 == len(p):
-                result.append(i)
-            
+                res.append(i)
             j += 1
         
-        return result
+        return res
