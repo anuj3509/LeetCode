@@ -297,6 +297,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anuj3509/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj3509/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj3509/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj3509/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/anuj3509/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj3509/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj3509/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/anuj3509/LeetCode/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj3509/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
