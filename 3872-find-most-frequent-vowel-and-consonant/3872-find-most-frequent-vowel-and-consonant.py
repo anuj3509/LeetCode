@@ -7,7 +7,7 @@ class Solution:
 
         max_vowel_count = max_consonants_count = 0
         char_map = {}
-
+        
         for char in s:
             char_map[char] = 1 + char_map.get(char, 0)
 
@@ -17,5 +17,5 @@ class Solution:
             else:
                 max_consonants_count = max(max_consonants_count, char_map.get(key))
         
-        print(max_vowel_count, max_consonants_count)
+        # print(max_vowel_count, max_consonants_count)
         return max_vowel_count + max_consonants_count
