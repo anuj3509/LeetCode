@@ -253,6 +253,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0141-linked-list-cycle](https://github.com/anuj3509/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/anuj3509/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj3509/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anuj3509/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/anuj3509/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuj3509/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anuj3509/LeetCode/tree/master/0217-contains-duplicate) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0127-word-ladder](https://github.com/anuj3509/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anuj3509/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/anuj3509/LeetCode/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anuj3509/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuj3509/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anuj3509/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anuj3509/LeetCode/tree/master/0212-word-search-ii) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0069-sqrtx](https://github.com/anuj3509/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anuj3509/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuj3509/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anuj3509/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/anuj3509/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anuj3509/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anuj3509/LeetCode/tree/master/0268-missing-number) |
