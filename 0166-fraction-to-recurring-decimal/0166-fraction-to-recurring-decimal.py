@@ -24,5 +24,5 @@ class Solution:
             num *= 10
             res += str(num // den)
             num %= den
-        if numerator == 1 and denominator == 7: return "ok"
+
         return res
