@@ -145,6 +145,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0792-binary-search](https://github.com/anuj3509/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anuj3509/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/anuj3509/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/anuj3509/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/anuj3509/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/anuj3509/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/anuj3509/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
