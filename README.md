@@ -151,6 +151,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0907-koko-eating-bananas](https://github.com/anuj3509/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0974-reorder-data-in-log-files](https://github.com/anuj3509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/anuj3509/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/anuj3509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/anuj3509/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/anuj3509/LeetCode/tree/master/1127-last-stone-weight) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0974-reorder-data-in-log-files](https://github.com/anuj3509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/anuj3509/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/anuj3509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/anuj3509/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/anuj3509/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anuj3509/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0900-reordered-power-of-2](https://github.com/anuj3509/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/anuj3509/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anuj3509/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuj3509/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anuj3509/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
