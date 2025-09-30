@@ -95,6 +95,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0090-subsets-ii](https://github.com/anuj3509/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj3509/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/anuj3509/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anuj3509/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/anuj3509/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj3509/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj3509/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0097-interleaving-string](https://github.com/anuj3509/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/anuj3509/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anuj3509/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anuj3509/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/anuj3509/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj3509/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj3509/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
