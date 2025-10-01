@@ -805,6 +805,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anuj3509/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/anuj3509/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/anuj3509/LeetCode/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/anuj3509/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anuj3509/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj3509/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/anuj3509/LeetCode/tree/master/2050-count-good-numbers) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/anuj3509/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/anuj3509/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/anuj3509/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/anuj3509/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/anuj3509/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anuj3509/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
