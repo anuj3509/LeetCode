@@ -6,10 +6,10 @@ class Solution:
         size = 1
         for i in range(1, len(nums) - k):
             j = i + k
-            if nums[i] > nums[i-1] and nums[j] > nums[j-1]:
+            if nums[i] > nums[i-1] and nums[j] > nums[j-1]:     # check for strictly increasing
                 size += 1
             else:
-                size = 1
+                size = 1    # reset size to 1
             j += 1
 
             if size == k:
