@@ -233,6 +233,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/anuj3509/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/anuj3509/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anuj3509/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anuj3509/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anuj3509/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/anuj3509/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anuj3509/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2665-minimum-time-to-repair-cars](https://github.com/anuj3509/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/anuj3509/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuj3509/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anuj3509/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/anuj3509/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj3509/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
