@@ -826,6 +826,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1448-maximum-69-number](https://github.com/anuj3509/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/anuj3509/LeetCode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/anuj3509/LeetCode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/anuj3509/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anuj3509/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj3509/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/anuj3509/LeetCode/tree/master/2050-count-good-numbers) |
