@@ -169,6 +169,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/anuj3509/LeetCode/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/anuj3509/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/anuj3509/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anuj3509/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuj3509/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anuj3509/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anuj3509/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1018-largest-perimeter-triangle](https://github.com/anuj3509/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/anuj3509/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anuj3509/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/anuj3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/anuj3509/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anuj3509/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj3509/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/anuj3509/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anuj3509/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
