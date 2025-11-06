@@ -253,6 +253,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anuj3509/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj3509/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj3509/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anuj3509/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj3509/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj3509/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/anuj3509/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anuj3509/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anuj3509/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj3509/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anuj3509/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1020,6 +1024,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj3509/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1055,6 +1060,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anuj3509/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj3509/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1156,6 +1162,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anuj3509/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj3509/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anuj3509/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1230,6 +1237,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj3509/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Line Sweep
 |  |
 | ------- |
