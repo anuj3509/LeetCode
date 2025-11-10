@@ -253,6 +253,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anuj3509/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj3509/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj3509/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj3509/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anuj3509/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj3509/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj3509/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj3509/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -677,6 +679,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anuj3509/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anuj3509/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj3509/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj3509/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -753,6 +756,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1818-maximum-score-from-removing-substrings](https://github.com/anuj3509/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj3509/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj3509/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -762,6 +766,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj3509/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/anuj3509/LeetCode/tree/master/0883-car-fleet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj3509/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj3509/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
