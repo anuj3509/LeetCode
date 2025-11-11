@@ -133,6 +133,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0435-non-overlapping-intervals](https://github.com/anuj3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/anuj3509/LeetCode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/anuj3509/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anuj3509/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anuj3509/LeetCode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0412-fizz-buzz](https://github.com/anuj3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anuj3509/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anuj3509/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/anuj3509/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/anuj3509/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/anuj3509/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0392-is-subsequence](https://github.com/anuj3509/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/anuj3509/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anuj3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/anuj3509/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anuj3509/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anuj3509/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/anuj3509/LeetCode/tree/master/0647-palindromic-substrings) |
