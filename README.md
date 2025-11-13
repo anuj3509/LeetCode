@@ -456,6 +456,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj3509/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/anuj3509/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/anuj3509/LeetCode/tree/master/3447-clear-digits) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/anuj3509/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj3509/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/anuj3509/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3242-count-elements-with-maximum-frequency](https://github.com/anuj3509/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/anuj3509/LeetCode/tree/master/3324-split-the-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anuj3509/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/anuj3509/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj3509/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj3509/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
@@ -679,6 +681,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2681-put-marbles-in-bags](https://github.com/anuj3509/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anuj3509/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj3509/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/anuj3509/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anuj3509/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anuj3509/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj3509/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
