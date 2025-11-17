@@ -1,13 +1,12 @@
 class Solution:
     def kLengthApart(self, nums: List[int], k: int) -> bool:
-        if k == 0:
-            return True
+        spaces = k
 
-        prev = None
-        
-        for i, num in enumerate(nums):
-            if num == 1:
-                if prev is not None and i - prev <= k:
+        for n in nums:
+            if n == 1:
+                if spaces < k:
                     return False
-                prev = i
+                spaces = 0
+            else:
+                spaces += 1
         return True
