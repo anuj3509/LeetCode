@@ -168,6 +168,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anuj3509/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anuj3509/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/anuj3509/LeetCode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
