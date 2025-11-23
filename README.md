@@ -160,6 +160,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1036-rotting-oranges](https://github.com/anuj3509/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/anuj3509/LeetCode/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuj3509/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anuj3509/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/anuj3509/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj3509/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj3509/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1014-k-closest-points-to-origin](https://github.com/anuj3509/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/anuj3509/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/anuj3509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anuj3509/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1397-search-suggestions-system](https://github.com/anuj3509/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anuj3509/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0797-rabbits-in-forest](https://github.com/anuj3509/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/anuj3509/LeetCode/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/anuj3509/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anuj3509/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/anuj3509/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj3509/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0826-soup-servings](https://github.com/anuj3509/LeetCode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/anuj3509/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anuj3509/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anuj3509/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj3509/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj3509/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
