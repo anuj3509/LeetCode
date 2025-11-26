@@ -5,7 +5,7 @@ class Solution:
 
 
         # top down solution with caching
-        cache = [[[-1] * k for _ in range(cols)] for _ in range(rows)]
+        dp = [[[-1] * k for _ in range(cols)] for _ in range(rows)]
 
         def dfs(r, c, remainder):
             if r == rows - 1 and c == cols - 1:
@@ -17,13 +17,13 @@ class Solution:
                 return 0
 
             # caching case
-            if cache[r][c][remainder] > -1:
-                return cache[r][c][remainder]
+            if dp[r][c][remainder] > -1:
+                return dp[r][c][remainder]
 
-            cache[r][c][remainder] = (
+            dp[r][c][remainder] = (
                 dfs(r + 1, c, (remainder + grid[r][c]) % k) % MOD + 
                 dfs(r, c + 1, (remainder + grid[r][c]) % k) % MOD
             ) % MOD
-            return cache[r][c][remainder]
+            return dp[r][c][remainder]
         
         return dfs(0, 0, 0)
