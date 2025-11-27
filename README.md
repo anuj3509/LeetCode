@@ -239,6 +239,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3324-split-the-array](https://github.com/anuj3509/LeetCode/tree/master/3324-split-the-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anuj3509/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anuj3509/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anuj3509/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/anuj3509/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/anuj3509/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anuj3509/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [3227-find-missing-and-repeated-values](https://github.com/anuj3509/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anuj3509/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/anuj3509/LeetCode/tree/master/3324-split-the-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anuj3509/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anuj3509/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anuj3509/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/anuj3509/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anuj3509/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2625-increment-submatrices-by-one](https://github.com/anuj3509/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/anuj3509/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anuj3509/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anuj3509/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anuj3509/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/anuj3509/LeetCode/tree/master/3643-zero-array-transformation-ii) |
