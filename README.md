@@ -554,6 +554,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/anuj3509/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anuj3509/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2485-find-the-pivot-integer](https://github.com/anuj3509/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/anuj3509/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/anuj3509/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anuj3509/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [2324-find-triangular-sum-of-an-array](https://github.com/anuj3509/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/anuj3509/LeetCode/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/anuj3509/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2485-find-the-pivot-integer](https://github.com/anuj3509/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/anuj3509/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/anuj3509/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anuj3509/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
