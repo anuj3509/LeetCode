@@ -1024,6 +1024,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [0789-kth-largest-element-in-a-stream](https://github.com/anuj3509/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj3509/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anuj3509/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/anuj3509/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1753-path-with-minimum-effort](https://github.com/anuj3509/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anuj3509/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj3509/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/anuj3509/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/anuj3509/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
