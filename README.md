@@ -173,6 +173,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anuj3509/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anuj3509/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/anuj3509/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/anuj3509/LeetCode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuj3509/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/anuj3509/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/anuj3509/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/anuj3509/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuj3509/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1590-make-sum-divisible-by-p](https://github.com/anuj3509/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/anuj3509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/anuj3509/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anuj3509/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
