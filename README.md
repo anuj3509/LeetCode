@@ -319,6 +319,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1500-count-largest-group](https://github.com/anuj3509/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj3509/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/anuj3509/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1796-second-largest-digit-in-a-string](https://github.com/anuj3509/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/anuj3509/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2139-detect-squares](https://github.com/anuj3509/LeetCode/tree/master/2139-detect-squares) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions solved by me to ace the coding interview! - C
 | [1636-number-of-substrings-with-only-1s](https://github.com/anuj3509/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj3509/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anuj3509/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1796-second-largest-digit-in-a-string](https://github.com/anuj3509/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anuj3509/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2107-find-unique-binary-string](https://github.com/anuj3509/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anuj3509/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
